@@ -70,6 +70,7 @@ Imagens:
  - [Fragment](https://i.imgur.com/jTqNa7D.png)
  - [Piece](https://i.imgur.com/IR5Sn6X.png)
  - [Stone](https://i.imgur.com/JAeGRb1.png)
+ - [Background](https://i.imgur.com/etWX9CB.jpg)
 
 ---
 
