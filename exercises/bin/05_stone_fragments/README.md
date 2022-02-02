@@ -28,7 +28,7 @@ Desenvolver um aplicativo que faça a contagem dos cliques do usuário na tela e
 
 ```
 Entrada:
-	cliques = 9
+	cliques: 9
 
 Saída:
     Stones: 0
@@ -38,7 +38,7 @@ Saída:
 
 ```
 Entrada:
-	cliques = 10
+	cliques: 10
 
 Saída:
     Stones: 0
@@ -48,7 +48,7 @@ Saída:
 
 ```
 Entrada:
-	cliques = 11
+	cliques: 11
 
 Saída:
     Stones: 0
@@ -58,7 +58,7 @@ Saída:
 
 ```
 Entrada:
-	cliques = 101
+	cliques: 101
 
 Saída:
     Stones: 1
@@ -66,7 +66,12 @@ Saída:
     Fragments: 1
 ```
 
+Imagens:
+ - [Fragment](https://i.imgur.com/jTqNa7D.png)
+ - [Piece](https://i.imgur.com/IR5Sn6X.png)
+ - [Stone](https://i.imgur.com/JAeGRb1.png)
+
 ---
 
-### [Vídeo explicativo]()
+### [Vídeo explicativo](https://drive.google.com/file/d/14j8egTzUq6qTgzAQXk81Be5287aEARpW/view?usp=sharing)
 

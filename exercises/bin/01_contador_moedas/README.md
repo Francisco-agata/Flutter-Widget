@@ -63,5 +63,5 @@ Saída:
 
 ---
 
-### [Vídeo explicativo]()
+### [Vídeo explicativo](https://drive.google.com/file/d/1CKL15gRVUu9hvm_fymNkiS9MEvs_b_m0/view?usp=sharing)
 

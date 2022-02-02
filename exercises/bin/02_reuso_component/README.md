@@ -20,5 +20,5 @@ Criar um componente que pode ser reutilizado para criar novos blocos coloridos, 
 
 ---
 
-### [Vídeo explicativo]()
+### [Vídeo explicativo](https://drive.google.com/file/d/12bXWKZOyIfcPl1dpaMXl7e21HqBvnl2V/view?usp=sharing)
 

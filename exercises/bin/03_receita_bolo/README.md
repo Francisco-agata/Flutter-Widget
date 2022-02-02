@@ -14,7 +14,9 @@ Desenvolver um aplicativo que mostre uma imagem e abaixo dela, blocos de cores d
 
 ![](https://i.imgur.com/r3zpybj.png)
 
+[Imagem do bolo](https://i.imgur.com/NrfOeJY.jpg)
+
 ---
 
-### [Vídeo explicativo]()
+### [Vídeo explicativo](https://drive.google.com/file/d/1fHWWdplnR8G1x4MxZoOUrscbDlRnE8J7/view?usp=sharing)
 
