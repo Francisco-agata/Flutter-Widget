@@ -22,7 +22,7 @@ Desenvolver um aplicativo que faça a contagem dos cliques do usuário na tela e
 
 ```
 Entrada:
-	cliques: 9
+    cliques: 9
 
 Saída:
     Copper: 9
@@ -32,7 +32,7 @@ Saída:
 
 ```
 Entrada:
-	cliques: 10
+    cliques: 10
 
 Saída:
     Copper: 0
@@ -42,7 +42,7 @@ Saída:
 
 ```
 Entrada:
-	cliques: 11
+    cliques: 11
 
 Saída:
     Copper: 1
@@ -52,7 +52,7 @@ Saída:
 
 ```
 Entrada:
-	cliques: 101
+    cliques: 101
 
 Saída:
     Copper: 1
